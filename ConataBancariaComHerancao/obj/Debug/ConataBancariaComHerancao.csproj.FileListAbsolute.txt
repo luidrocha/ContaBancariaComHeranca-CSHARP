@@ -1,0 +1,7 @@
+D:\wp_VS\ConataBancariaComHerancao\ConataBancariaComHerancao\obj\Debug\ConataBancariaComHerancao.csproj.AssemblyReference.cache
+D:\wp_VS\ConataBancariaComHerancao\ConataBancariaComHerancao\obj\Debug\ConataBancariaComHerancao.csproj.CoreCompileInputs.cache
+D:\wp_VS\ConataBancariaComHerancao\ConataBancariaComHerancao\bin\Debug\ConataBancariaComHerancao.exe.config
+D:\wp_VS\ConataBancariaComHerancao\ConataBancariaComHerancao\bin\Debug\ConataBancariaComHerancao.exe
+D:\wp_VS\ConataBancariaComHerancao\ConataBancariaComHerancao\bin\Debug\ConataBancariaComHerancao.pdb
+D:\wp_VS\ConataBancariaComHerancao\ConataBancariaComHerancao\obj\Debug\ConataBancariaComHerancao.exe
+D:\wp_VS\ConataBancariaComHerancao\ConataBancariaComHerancao\obj\Debug\ConataBancariaComHerancao.pdb
